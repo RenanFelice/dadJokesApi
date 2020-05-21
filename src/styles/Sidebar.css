@@ -32,6 +32,7 @@
 }
 .Sidebar button:active{
     box-shadow: 0 14px 28px rgba(0, 0, 0, 0.123), 0 10px 10px rgba(0, 0, 0, 0.123);
+    transform: translateY(4px);
 }
 
 .Sidebar i {
